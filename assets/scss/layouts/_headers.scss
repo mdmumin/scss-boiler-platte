@@ -1,0 +1,9 @@
+@import "../abstracts/variables";
+@import "../mixins/common";
+@import "../mixins/responsive";
+header{
+    background-color: gray;
+    padding: 40px 0px;
+
+    @include tr();
+}

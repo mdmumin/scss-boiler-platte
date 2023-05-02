@@ -1,0 +1,28 @@
+{
+  "name": "plant-shop-pigma-to-html",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postcss": "postcss assets/styles/style.css -o assets/styles/style.css -w",
+    "sass": "sass assets/scss/style.scss assets/styles/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdmumin/plant_shop_portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdmumin/plant_shop_portfolio/issues"
+  },
+  "homepage": "https://github.com/mdmumin/plant_shop_portfolio#readme",
+  "devDependencies": {
+    "postcss": "^8.4.23",
+    "postcss-cli": "^10.1.0",
+    "postcss-preset-env": "^8.3.2",
+    "sass": "^1.62.1"
+  }
+}
