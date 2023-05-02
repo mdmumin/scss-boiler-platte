@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mdmumin/plant_shop_portfolio.git"
+    "url": "git+https://github.com/mdmumin/scss-boiler-platte.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mdmumin/plant_shop_portfolio/issues"
+    "url": "https://github.com/mdmumin/scss-boiler-platte/issues"
   },
-  "homepage": "https://github.com/mdmumin/plant_shop_portfolio#readme",
+  "homepage": "https://github.com/mdmumin/scss-boiler-platte#readme",
   "devDependencies": {
     "postcss": "^8.4.23",
     "postcss-cli": "^10.1.0",
